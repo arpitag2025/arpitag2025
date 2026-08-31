@@ -1,10 +1,12 @@
 # Hi, I'm Arpita !
 
-### Software Engineer | Data Science M.S. @ UC San Diego
+### Data Science M.S. @ UC San Diego
 
 I'm a Computer Science graduate currently pursuing my **M.S. in Data Science at UC San Diego**, with experience across software engineering, data analytics, machine learning, and cloud technologies.
 
 I enjoy building systems that turn complex data and technical problems into practical solutions. My experience ranges from developing machine learning models and data pipelines to building applications, analytics dashboards, and interactive simulations.
+
+## View my resume ==> ./ArpitaGodboleResume_Aug26.pdf
 
 ## Technical Skills
 
